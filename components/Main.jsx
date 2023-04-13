@@ -13,7 +13,6 @@ export default function Main() {
                     <h1 className='py-4 text-gray-700'>Hi, i'm <span className='text-[#46a5e9]'>Datta Kiran</span></h1>
                     <h1 className='py-2 text-gray-700'>A Full-Stack Web Developer</h1>
                     <p className='py-4 text-gray-600 max-w-[70%] m-auto text-xl'>Frontend Developer / Backend Developer / ML Engineer</p>
-                    {/* <p className='py-4 text-gray-600 max-w-[70%] m-auto'>I'm a very ambitious full-stack developer looking for a role as a software developer with the opportunity to work with the latest technologies on challenging and diverse projects.</p> */}
                     <div className='flex items-center justify-between m-auto max-w-[330px] py-4'>
                         <Link target='_blank' href="https://www.linkedin.com/in/pondari-datta-kiran-24a6a0237/">
                             <div className='rounded-full shadow-lg shadow-gray-400 cursor-pointer p-6 hover:scale-110 ease-in duration-300'><FaLinkedinIn /></div>

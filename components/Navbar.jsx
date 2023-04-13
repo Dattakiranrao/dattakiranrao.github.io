@@ -25,7 +25,6 @@ export default function Navbar() {
         window.addEventListener('scroll', handleShadow);
     }, [])
 
-
     return (
         <>
             <div className={`fixed w-full h-15 bg-[#ecf0f3] z-[100] ${shadow ? 'shadow-xl' : ""}`}>
