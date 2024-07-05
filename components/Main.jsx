@@ -25,7 +25,7 @@ export default function Main() {
                             <div className='rounded-full shadow-lg shadow-gray-400 cursor-pointer p-6 hover:scale-110 ease-in duration-300'>
                                 <AiOutlineMail /></div>
                         </Link>
-                        <Link target='_blank' href=''>
+                        <Link target='_blank' href='https://drive.google.com/file/d/1dALJnfVugYiW0XqE7Gbj8aEHLqaT2XLj/view'>
                             <div className='rounded-full shadow-lg shadow-gray-400 cursor-pointer p-6 hover:scale-110 ease-in duration-300'>
                                 <BsFillPersonLinesFill /></div>
                         </Link>
